@@ -38,16 +38,16 @@ Daytime lighting with high-contrast shadows to bring out the natural rock textur
 
 ### The High Stronghold
 A fortified keep built directly into the highest cliffs, overlooking the river valley below.
-![Citadel Elevation](assets/citadel_elevation.jpg)
+![Citadel Elevation](assets/citadel_elevation.jpeg)
 
 ### Natural Progression Paths
 Winding dirt trails and densely forested valleys leading toward the natural water systems.
-![Mountain Trail](assets/mountain_trail.jpg)
+![Mountain Trail](assets/mountain_trail.jpeg)
 
 ### Structural Contrast
 The ancient ruined fortress on the opposite ridge, illustrating decay and overgrowth.
-![Ruined Overlook](assets/ruined_overlook.jpg)
+![Ruined Overlook](assets/ruined_overlook.jpeg)
 
 ### Cinematic Vistas
 The scale of the world, highlighting the transition from deep forest to towering peaks.
-![Landscape Panorama](assets/landscape_panorama.jpg)
+![Landscape Panorama](assets/landscape_panorama.jpeg)
